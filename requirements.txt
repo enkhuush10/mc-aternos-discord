@@ -12,6 +12,7 @@ requests==2.25.1
 requests-toolbelt==0.9.1
 typing_extensions==4.1.1
 urllib3==1.26.7
+lxml==4.9.3
 yarl==1.9.2
 Js2Py==0.71
 mcstatus==9.0.2
